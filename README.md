@@ -57,12 +57,12 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aradhana-Mohanty2000&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Aradhana-Mohanty2000)
 
 ---
 
