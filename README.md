@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Aradhana Mohanty 👋</h1>
-<h3 align="center">Aspiring DevOps Engineer | AWS Cloud Enthusiast | Full Stack Developer</h3>
+<h3 align="center">Aspiring AWS DevOps Engineer | Azure Cloud Engineer | Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/aradhana-mohanty-96a635214"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
